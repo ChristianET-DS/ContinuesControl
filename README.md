@@ -54,5 +54,12 @@ Python 3x
 
 Instructions:
 How to Run, simple agent:
+
 Github Link:
 https://github.com/ChristianET-DS/ContinuesControl/tree/main/SingleAgent
+
+How to Run, multiple agents (20):
+
+Run notebook :
+https://github.com/ChristianET-DS/ContinuesControl/tree/main/MultiAgent
+
