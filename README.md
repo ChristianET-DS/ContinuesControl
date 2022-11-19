@@ -42,10 +42,16 @@ Case Multi Agent case:
 The agents must get an average score up to 30 (over 100 consecutive episodes, and over all agents).
 After each episode, we add up the rewards that each agent received (without discounting), to get a score for each agent. This yields 20 (potentially different) scores. We then take the average of these 20 scores. This yields an average score for each episode ( avg of the 20 agents).
 Reacher environment  used:  Reacher.x86_64
+
+
 Getting Started:
+
+
 What you need to install 
 Pytorch
 Python 3x
+
+
 Instructions:
 How to Run, simple agent:
 Github Link:
